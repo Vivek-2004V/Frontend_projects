@@ -1,0 +1,16 @@
+#gallery {
+    color: red;
+}
+
+#gallery p {
+
+    color: blue;
+}
+
+#gallery a {
+text-decoration: none;
+}
+
+#gallery a:hover {
+    color: green;
+}
